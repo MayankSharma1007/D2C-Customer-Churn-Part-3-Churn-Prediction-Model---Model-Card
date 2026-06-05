@@ -1,0 +1,105 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook Checkpoints
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Operating System Files
+
+.DS_Store
+Thumbs.db
+
+# Python Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Environment Variables
+
+.env
+
+# Model Training Cache
+
+.cache/
+
+# Large Generated Files (Optional)
+
+*.h5
+*.joblib
+
+# Keep Trained Models
+
+# Comment these lines if you want to track models
+
+# Models/*.pkl
+
+# Keep Outputs
+
+# Comment these lines if you want to ignore generated outputs
+
+# Part_3_outputs/*.png
+
+# Jupyter Runtime
+
+*.sqlite
+*.db
+
+# Coverage Reports
+
+.coverage
+htmlcov/
+
+# Test Artifacts
+
+.pytest_cache/
+
+# MyPy
+
+.mypy_cache/
+
+# Ruff
+
+.ruff_cache/
+
+# Notebook Exports
+
+*.html
+
+# Mac
+
+.AppleDouble
+.LSOverride
+
+# Windows
+
+ehthumbs.db
+Desktop.ini
