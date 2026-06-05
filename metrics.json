@@ -1,0 +1,15 @@
+{
+    "model_name": "Gradient Boosting",
+    "accuracy": 0.7797619047619048,
+    "precision": 0.7281553398058253,
+    "recall": 0.8928571428571429,
+    "f1_score": 0.8021390374331551,
+    "roc_auc": 0.8582766439909297,
+    "selected_threshold": 0.3,
+    "confusion_matrix": {
+        "true_negative": 112,
+        "false_positive": 56,
+        "false_negative": 18,
+        "true_positive": 150
+    }
+}
